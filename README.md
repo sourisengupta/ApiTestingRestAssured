@@ -6,7 +6,7 @@ BDD- Behavior Driven Development Approach
 Rest Assured dependencies
 ---------------------------------
 rest-assured
-json-schema-validator
+json-schema-validator(from rest-assured)
 json-path
 xml-path
 testNG
